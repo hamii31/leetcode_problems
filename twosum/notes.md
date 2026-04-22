@@ -7,3 +7,4 @@ Difference 7 between 9 and 2 for 0 (we store 2 with an index of 0)
 Difference 2 between 9 and 7 for 1 (we store 7 on key 2 with an index of 1, since the value of the difference already exists as a key)
 We return [0,1]
 
+The C# implementation follows the same logic as the python one. 
