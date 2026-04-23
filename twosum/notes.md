@@ -8,3 +8,5 @@ Difference 2 between 9 and 7 for 1 (we store 7 on key 2 with an index of 1, sinc
 We return [0,1]
 
 The C# and JS implementations follow the same logic as the python one. 
+
+The C implementation is by far the simplest, because I did not feel like building a Dictionary structure right now. Might do it later.
